@@ -1,32 +1,4 @@
-22358545106335833
-150060GS75000
-LED_150060GS75000_WRE
-
-150060GS75000 
-0
-2
-2
-150060GS75000
-LED_150060GS75000_WRE-L
-
-150060GS75000 
-0
-2
-2
-150060GS75000
-LED_150060GS75000_WRE-M
-
-150060GS75000 
-0
-2
-2
-860010372001
-CAP_WCAP-ATG8_5x11_WRE
-
-860010372001 
-0
-2
-2
+22351718852394408
 AMASS_XT60-M
 AMASS_XT60-M_1x02_P7.20mm_Vertical
 AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
@@ -48,6 +20,13 @@ audio belton reverb
 0
 7
 7
+BSZ065N03LSATMA1-MOSFET
+SON8_BSZ065N03LSATMA1_INF
+
+BSZ065N03LSATMA1 
+0
+8
+8
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -61248,13 +61227,6 @@ SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with number
 solder jumper open
 0
 5
-3
-LD1085V50_footprints
-TO-220_STM
-
-LD1085V50 
-0
-3
 3
 LED_SMD
 LED-APA102-2020

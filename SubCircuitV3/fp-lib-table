@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LD1085V50")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/LD1085V50")(options "")(descr ""))
+  (lib (name "AMASS_XT60-M")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/AMASS_XT60-M")(options "")(descr ""))
+  (lib (name "BSZ065N03LSATMA1-MOSFET")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/BSZ065N03LSATMA1")(options "")(descr ""))
+  (lib (name "Micro-LED")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/150060GS75000")(options "")(descr ""))
+  (lib (name "Capacitor_WCAP-ATG8_5x11_WRE")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/860010372001")(options "")(descr ""))
+)
