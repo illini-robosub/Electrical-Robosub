@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "New_Library")(type "KiCad")(uri "/Users/jinhongli/Desktop/Robosub Mar12/Electrical-Robosub/Robosub library/New_Library.kicad_sym")(options "")(descr ""))
-  (lib (name "Robosub library")(type "KiCad")(uri "/Users/jinhongli/Desktop/Robosub Mar12/Electrical-Robosub/Robosub library/Robosub library.kicad_sym")(options "")(descr ""))
+  (lib (name "RoboSub_Lib")(type "KiCad")(uri "${KIPRJMOD}/RoboSub_Lib/RoboSub_Lib.kicad_sym")(options "")(descr ""))
 )

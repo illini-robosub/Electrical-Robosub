@@ -5,4 +5,8 @@
   (lib (name "BSZ065N03LSATMA1-MOSFET")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/BSZ065N03LSATMA1")(options "")(descr ""))
   (lib (name "Micro-LED")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/150060GS75000")(options "")(descr ""))
   (lib (name "Capacitor_WCAP-ATG8_5x11_WRE")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/860010372001/860010372001")(options "")(descr ""))
+  (lib (name "AOD454")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/AOD454")(options "")(descr ""))
+  (lib (name "284932-3")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/284932-3")(options "")(descr ""))
+  (lib (name "3544-2")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/3544-2")(options "")(descr ""))
+  (lib (name "XT90")(type "KiCad")(uri "${KIPRJMOD}/Added Parts/AMASS_XT90")(options "")(descr ""))
 )
