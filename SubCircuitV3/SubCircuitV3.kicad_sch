@@ -5174,7 +5174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT90PW-M_1x02_P10.90mm_Horizontal"
+		(property "Footprint" "Footprints:XT90"
 			(at 219.71 163.83 0)
 			(effects
 				(font
@@ -6292,7 +6292,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x08_P2.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 			(at 153.67 148.59 0)
 			(effects
 				(font
@@ -7894,7 +7894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT90PW-M_1x02_P10.90mm_Horizontal"
+		(property "Footprint" "Footprints:XT90"
 			(at 201.93 163.83 0)
 			(effects
 				(font

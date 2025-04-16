@@ -247,7 +247,7 @@
 			)
 		)
 	)
-	(pad "+12V" thru_hole roundrect
+	(pad "1" thru_hole roundrect
 		(at -3.35 -0.1)
 		(size 6 6)
 		(drill 5)
@@ -256,7 +256,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "2bd5b1e4-b891-44d6-b5e8-da486c6a63ac")
 	)
-	(pad "GND" thru_hole circle
+	(pad "2" thru_hole circle
 		(at 3.85 -0.1)
 		(size 6 6)
 		(drill 5)
