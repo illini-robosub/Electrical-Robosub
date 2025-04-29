@@ -3083,7 +3083,7 @@
 	)
 	(rectangle
 		(start 190.5 151.13)
-		(end 290.83 170.18)
+		(end 328.93 170.18)
 		(stroke
 			(width 0)
 			(type dash_dot_dot)
@@ -4613,6 +4613,16 @@
 	)
 	(wire
 		(pts
+			(xy 300.99 160.02) (xy 318.77 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e152d4-40e9-4149-aee3-98ba2072f917")
+	)
+	(wire
+		(pts
 			(xy 292.1 111.76) (xy 292.1 99.06)
 		)
 		(stroke
@@ -4810,6 +4820,70 @@
 			(project "SubCircuitV3"
 				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND1")
+		(at 323.85 160.02 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0822cdcd-efcd-4e17-bdfd-a166a8e4872f")
+		(property "Reference" "#PWR037"
+			(at 323.85 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND1"
+			(at 325.12 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 323.85 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 323.85 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 323.85 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "46606b00-4993-4a03-b1c6-37b8bb12c00d")
+		)
+		(instances
+			(project "SubCircuitV3"
+				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -5684,7 +5758,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_WCAP-ATG8_5x11_WRE:CAP_WCAP-ATG8_5x11_WRE"
+		(property "Footprint" "Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm"
 			(at 293.0652 119.38 0)
 			(effects
 				(font
@@ -5852,7 +5926,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_WCAP-ATG8_5x11_WRE:CAP_WCAP-ATG8_5x11_WRE"
+		(property "Footprint" "Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm"
 			(at 233.3752 119.38 0)
 			(effects
 				(font
@@ -5919,7 +5993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P20.32mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P30.48mm"
 			(at 271.78 161.798 90)
 			(effects
 				(font
@@ -6627,6 +6701,70 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 295.91 160.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5141ed48-623d-4bbe-ba04-6420d10e387f")
+		(property "Reference" "#PWR036"
+			(at 295.91 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 292.354 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 295.91 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 295.91 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ff7874f-74a3-4dd9-ba53-66db6f4388ef")
+		)
+		(instances
+			(project "SubCircuitV3"
+				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RoboSub_Lib:3544-2")
 		(at 49.53 133.35 0)
 		(unit 1)
@@ -7270,6 +7408,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 298.45 165.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "697b78f9-e0d8-4b35-9ad0-c5abbfc1fe28")
+		(property "Reference" "J21"
+			(at 303.53 163.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "U3V16F15"
+			(at 303.53 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+			(at 298.45 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 298.45 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 298.45 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "379bb213-9b32-42a3-a518-2bc860e6d17a")
+		)
+		(pin "2"
+			(uuid "39de1dee-7d30-4aac-bcb1-73754e875990")
+		)
+		(pin "3"
+			(uuid "4a822f87-6c8b-4911-96c7-cf897e1bed8f")
+		)
+		(instances
+			(project ""
+				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
+					(reference "J21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDS")
 		(at 142.24 113.03 0)
 		(unit 1)
@@ -7330,6 +7541,79 @@
 			(project "SubCircuitV3"
 				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 321.31 165.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6dad977e-c694-4bf7-8287-2a7855835129")
+		(property "Reference" "J22"
+			(at 326.39 163.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CAM OUT"
+			(at 326.39 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "284932-3:CONN3_284392-3_TEC"
+			(at 321.31 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 321.31 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 321.31 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f47f0d5-7d3f-4c3f-bee2-1d4d2d5a6306")
+		)
+		(pin "2"
+			(uuid "c5bb16da-165b-41bf-9af8-caf0839849cd")
+		)
+		(pin "3"
+			(uuid "4864b02a-2871-4d10-84db-ef6c469973a7")
+		)
+		(instances
+			(project "SubCircuitV3"
+				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
+					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -10180,6 +10464,70 @@
 			(project "SubCircuitV3"
 				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
 					(reference "F4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND1")
+		(at 298.45 160.02 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e472e515-fec8-4d66-8861-f48d24a8673f")
+		(property "Reference" "#PWR035"
+			(at 298.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND1"
+			(at 299.72 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 298.45 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 298.45 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 298.45 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dad4f653-1a91-4828-9ad4-1dd4f043f4d2")
+		)
+		(instances
+			(project "SubCircuitV3"
+				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)

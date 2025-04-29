@@ -478,7 +478,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.35,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -507,7 +507,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "circuit_job_2/",
+      "plot": "circuit_job_3/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "SubCircuitV3.step",
