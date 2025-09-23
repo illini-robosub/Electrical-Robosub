@@ -4393,6 +4393,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 160.02) (xy 275.59 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b99c8cba-3661-465e-8e52-8d64ecc9d4fa")
+	)
+	(wire
+		(pts
 			(xy 232.41 111.76) (xy 236.22 111.76)
 		)
 		(stroke
@@ -5962,74 +5972,6 @@
 			(project "SubCircuitV3"
 				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Fuse")
-		(at 271.78 160.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2acb7070-db96-4906-ae20-e601f9ba1eec")
-		(property "Reference" "F7"
-			(at 271.78 153.67 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Fuse"
-			(at 271.78 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P30.48mm"
-			(at 271.78 161.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.78 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fuse"
-			(at 271.78 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fc289ca5-cfd2-4d81-89d6-fb84df7a7e3b")
-		)
-		(pin "2"
-			(uuid "2b19292e-5bab-490a-b7b9-b99ebccd4729")
-		)
-		(instances
-			(project ""
-				(path "/364d75d3-77e7-4f3e-a207-f79712f2b174"
-					(reference "F7")
 					(unit 1)
 				)
 			)
