@@ -3470,7 +3470,7 @@
 		(uuid "2504996b-0fa2-47ff-a764-58f2a1ebfe60")
 	)
 	(no_connect
-		(at 163.83 110.49)
+		(at 162.56 110.49)
 		(uuid "33f84ac1-8e62-4c3d-9499-f4b78da93abd")
 	)
 	(no_connect
@@ -3498,7 +3498,7 @@
 		(uuid "b29531aa-f727-435b-8248-067bad8200a4")
 	)
 	(no_connect
-		(at 142.24 110.49)
+		(at 140.97 110.49)
 		(uuid "b3c97dc6-10a2-48f1-b102-8c7dfbe31e21")
 	)
 	(wire
@@ -4323,7 +4323,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 107.95) (xy 156.21 107.95)
+			(xy 162.56 107.95) (xy 156.21 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4353,7 +4353,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 107.95) (xy 148.59 107.95)
+			(xy 140.97 107.95) (xy 148.59 107.95)
 		)
 		(stroke
 			(width 0)
@@ -7482,7 +7482,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDS")
-		(at 142.24 113.03 0)
+		(at 140.97 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7491,7 +7491,7 @@
 		(fields_autoplaced yes)
 		(uuid "6cf4094d-94aa-49e3-accf-5f63f938bcca")
 		(property "Reference" "#PWR07"
-			(at 142.24 119.38 0)
+			(at 140.97 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7500,7 +7500,7 @@
 			)
 		)
 		(property "Value" "GNDS"
-			(at 142.24 118.11 0)
+			(at 140.97 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7508,7 +7508,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 113.03 0)
+			(at 140.97 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7517,7 +7517,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 113.03 0)
+			(at 140.97 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7526,7 +7526,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
-			(at 142.24 113.03 0)
+			(at 140.97 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7884,7 +7884,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 137.16 110.49 0)
+		(at 135.89 110.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7893,7 +7893,7 @@
 		(dnp no)
 		(uuid "8d782f04-e2ab-40f3-be7e-b6e01f96b497")
 		(property "Reference" "J5"
-			(at 134.62 109.22 0)
+			(at 133.35 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7902,7 +7902,7 @@
 			)
 		)
 		(property "Value" "ESC PWM"
-			(at 134.62 111.76 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7911,7 +7911,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 137.16 110.49 0)
+			(at 135.89 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7920,7 +7920,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 110.49 0)
+			(at 135.89 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7929,7 +7929,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 110.49 0)
+			(at 135.89 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9509,7 +9509,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 168.91 110.49 0)
+		(at 167.64 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9518,7 +9518,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8bd12a3-a809-4b78-9da1-661d1bc628ca")
 		(property "Reference" "J2"
-			(at 171.45 109.22 0)
+			(at 170.18 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9527,7 +9527,7 @@
 			)
 		)
 		(property "Value" "ESC PWM"
-			(at 171.45 111.76 0)
+			(at 170.18 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9536,7 +9536,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 168.91 110.49 0)
+			(at 167.64 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9545,7 +9545,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 168.91 110.49 0)
+			(at 167.64 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9554,7 +9554,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 110.49 0)
+			(at 167.64 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10287,7 +10287,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDS")
-		(at 163.83 113.03 0)
+		(at 162.56 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10296,7 +10296,7 @@
 		(fields_autoplaced yes)
 		(uuid "dee6c482-4542-4598-8c0a-3e57fcf82f0c")
 		(property "Reference" "#PWR06"
-			(at 163.83 119.38 0)
+			(at 162.56 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10305,7 +10305,7 @@
 			)
 		)
 		(property "Value" "GNDS"
-			(at 163.83 118.11 0)
+			(at 162.56 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10313,7 +10313,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 113.03 0)
+			(at 162.56 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10322,7 +10322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 113.03 0)
+			(at 162.56 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10331,7 +10331,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
-			(at 163.83 113.03 0)
+			(at 162.56 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
