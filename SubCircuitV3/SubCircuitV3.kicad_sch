@@ -7107,7 +7107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT60-M:AMASS_XT60-M_1x02_P7.20mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
 			(at 31.75 135.89 0)
 			(effects
 				(font
@@ -7783,7 +7783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT60-M:AMASS_XT60-M_1x02_P7.20mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
 			(at 33.02 118.11 0)
 			(effects
 				(font
@@ -7923,7 +7923,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT60-M:AMASS_XT60-M_1x02_P7.20mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
 			(at 111.76 118.11 0)
 			(effects
 				(font
@@ -8061,7 +8061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT60-M:AMASS_XT60-M_1x02_P7.20mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
 			(at 111.76 135.89 0)
 			(effects
 				(font
@@ -9336,7 +9336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT60-M:AMASS_XT60-M_1x02_P7.20mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
 			(at 110.49 153.67 0)
 			(effects
 				(font
@@ -10567,7 +10567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT60-M:AMASS_XT60-M_1x02_P7.20mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
 			(at 31.75 153.67 0)
 			(effects
 				(font
