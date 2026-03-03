@@ -1,0 +1,79 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "MBRD835L" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at -5.08 2.54 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "MBRD835L" (id 1) (at -5.08 -3.81 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "MBRD835L:DPAK229P990X238-3N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "8" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "On Semiconductor" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "IPC-7351B" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "MBRD835L_0_0"
+      (polyline
+        (pts (xy -1.27 -1.27) (xy 1.27 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 0.0) (xy -1.27 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 1.27) (xy 1.27 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 1.27) (xy -1.27 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 1.27) (xy 1.27 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 1.27) (xy 1.905 1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -1.27) (xy 0.635 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 -1.016) (xy 0.635 -1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 0.0) (xy -1.27 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 0.0) (xy 1.27 0.0)) (stroke (width 0.254))
+      )
+      (pin passive line (at 5.08 0.0 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -5.08 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -5.08 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
