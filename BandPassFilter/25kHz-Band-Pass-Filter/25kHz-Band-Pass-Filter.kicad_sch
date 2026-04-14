@@ -5452,7 +5452,7 @@
 				)
 			)
 		)
-		(property "Value" "5.5nF"
+		(property "Value" "5.6nF"
 			(at 222.25 152.4 90)
 			(effects
 				(font
@@ -7144,7 +7144,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 314.96 104.1399 0)
 			(effects
 				(font
@@ -7214,7 +7214,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 314.96 180.3399 0)
 			(effects
 				(font
@@ -8255,7 +8255,7 @@
 				)
 			)
 		)
-		(property "Value" "6.6nF"
+		(property "Value" "660pF"
 			(at 222.25 76.2 90)
 			(effects
 				(font
@@ -8324,7 +8324,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 314.96 255.2699 0)
 			(effects
 				(font
@@ -9868,7 +9868,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 238.76 177.7999 0)
 			(effects
 				(font
@@ -10274,7 +10274,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6.1nF"
+		(property "Value" "620pF"
 			(at 308.61 97.7899 0)
 			(effects
 				(font
@@ -10343,7 +10343,7 @@
 				)
 			)
 		)
-		(property "Value" "6.6nF"
+		(property "Value" "660pF"
 			(at 209.55 76.2 90)
 			(effects
 				(font
@@ -11060,7 +11060,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 238.76 101.5999 0)
 			(effects
 				(font
@@ -11738,7 +11738,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 238.76 252.7299 0)
 			(effects
 				(font
@@ -11943,7 +11943,7 @@
 				)
 			)
 		)
-		(property "Value" "6.1nF"
+		(property "Value" "620pF"
 			(at 304.8 69.85 90)
 			(effects
 				(font
@@ -12211,7 +12211,7 @@
 				)
 			)
 		)
-		(property "Value" "5.5nF"
+		(property "Value" "5.6nF"
 			(at 209.55 152.4 90)
 			(effects
 				(font
@@ -12280,7 +12280,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 240.03 328.9299 0)
 			(effects
 				(font
@@ -13292,7 +13292,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100kΩ"
+		(property "Value" "6.2MΩ"
 			(at 316.23 331.4699 0)
 			(effects
 				(font
