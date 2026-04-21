@@ -1,4 +1,5 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "CUSTOM ADC")(type "KiCad")(uri "${KIPRJMOD}/ADC/LTC2171CUKG-14_PBF.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "CUSTOM ADC") (type "KiCad") (uri "${KIPRJMOD}/ADC/LTC2171CUKG-14_PBF.kicad_sym") (options "") (descr ""))
+	(lib (name "DS90LV012ATMF-NOPB") (type "KiCad") (uri "${KIPRJMOD}/DS90LV012ATMF-NOPB.pretty/DS90LV012ATMF-NOPB.kicad_sym") (options "") (descr ""))
 )
