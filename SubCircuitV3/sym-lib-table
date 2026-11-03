@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "RoboSub_Lib")(type "KiCad")(uri "${KIPRJMOD}/RoboSub_Lib/RoboSub_Lib.kicad_sym")(options "")(descr ""))
-)
