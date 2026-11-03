@@ -423,11 +423,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "power.kicad_sch",
+        "name": "power",
+        "uuid": "8b3b2f88-c2f6-4e39-be5b-1ebcef47c86a"
+      }
+    ],
+    "used_designators": "#PWR1,CN1,J1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "8b3b2f88-c2f6-4e39-be5b-1ebcef47c86a",
+      "power"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
